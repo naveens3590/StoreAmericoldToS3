@@ -1,3 +1,8 @@
+/**
+* Class to process the americold data and write the data to the s3 bucket file
+*
+* @author Naveen Kumar
+*/
 package com.aws.americold.storeFile;
 
 import java.nio.charset.StandardCharsets;
